@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Rokaia-Yassin
+- 👀 I’m interested in Programming, Data Science, and ML
+- 🌱 I’m currently learning ML
